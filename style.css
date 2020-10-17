@@ -1,0 +1,15 @@
+#name {
+    font-family: monospace;
+    font-size: 50px;
+    text-emphasis: uunderline;
+    color: olive;
+    opacity: 0.5;
+}
+
+.about{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color : red
+}
